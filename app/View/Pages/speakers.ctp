@@ -17,7 +17,7 @@
                     <li><img src="img/nigel-dobson.jpg" alt="Nigel Dobson"></li>
                     <li class="profile">
                         <div class="speakers-left">
-                            <small class="name"> Nigel Dobson <span>@NigelDobsonANZ</span></small>
+                            <small class="name"> Nigel Dobson <span>@NigelDDobson</span></small>
                             <small class="designation">General Manager, <span>Group Payments Management ANZ</span></small>
                         </div>
                                                    
@@ -65,7 +65,7 @@
                     <li><img src="img/alan-huse.jpg" alt="Alan Huse"></li>
                     <li class="profile">
                         <div class="speakers-left">
-                            <small class="name">Alan Huse </small>
+                            <small class="name">Alan Huse<span>@alan_huse</span> </small>
                             <small class="designation">Head, Global Transaction <span>Banking 
                             Australia,</span> New Zealand and 
                             the Pacific</small>
